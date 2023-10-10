@@ -1,0 +1,19 @@
+metadata_version: 1
+name: 'Multiuser Diversity for Successive Zero-Forcing Dirty Paper Coding: Greedy
+  Scheduling Algorithms and Asymptotic Performance Analysis'
+description: |-
+  Simulation code for the following paper:
+
+  Le-Nam Tran and Een-Kee Hong, "Multiuser Diversity for Successive Zero-Forcing Dirty Paper Coding: Greedy Scheduling Algorithms and Asymptotic Performance Analysis," IEEE Trans. Signal Process., vol. 58, no. 56, Jun. 2010.
+tags:
+- dirty paper coding
+- multiuser diversity
+- zero-forcing
+- scheduling
+authors:
+- name: Le-Nam Tran
+  affiliations:
+  - name: Kyung Hee University
+- name: Een-Kee Hong
+  affiliations:
+  - name: Kyung Hee University
